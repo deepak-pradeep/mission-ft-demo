@@ -3,3 +3,4 @@ cd test-112
 mkdir test-2
 cd ..
 touch new
+touch new-2
